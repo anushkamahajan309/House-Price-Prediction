@@ -20,6 +20,7 @@ The model is trained using Linear Regression, and the trained model is used in a
 
 ## 📂 Project Structure
 
+```text
 House-Price-Prediction/
 │
 ├── Data/
@@ -31,6 +32,8 @@ House-Price-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
 
 ## 🤖 Machine Learning Model
 
